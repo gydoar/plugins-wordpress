@@ -56,7 +56,6 @@ Si deseamos mostrar el el numero de visitas dentro de nuestro articulo agregamos
 echo getPostViews(get_the_ID());
 
 
-
 /*
 Ahora mostramos la estadistica para cada articulo dentro de nuestra administracion, generando una nueva columna donde se muestran el numero de visitas para cada articulo.
 */
