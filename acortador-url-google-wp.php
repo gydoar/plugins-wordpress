@@ -5,6 +5,7 @@
     Description: Acortador de url con la API de Google (https://goo.gl/), antes de implemntarlo se debe de crear una llave desde la API de Google
     Author: Andrés Vega
     Version: 1.0
+    Creación: 02/06/2016
     Author URI: http://www.andres-dev.com
     */
 
